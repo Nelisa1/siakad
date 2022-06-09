@@ -7,7 +7,7 @@ Kelas : CE-6B
 
 
 # siakad
-Sistem Akademik adalah aplikasi untuk mempermudah pendataan informasi seputar akademik yang menggunakan php dan mysql
+Sistem Akademik adalah aplikasi untuk mempermudah pendataan informasi seputar akademik.
 
 # Fitur
 1. ADD
