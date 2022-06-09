@@ -1,9 +1,13 @@
-# siakad
 Nama : Novitasari Elisa Simanjuntak
 
 NIM : 1905112052
 
 Kelas : CE-6B
+
+
+
+# siakad
+Sistem Akademik adalah aplikasi untuk mempermudah pendataan informasi seputar akademik yang menggunakan php dan mysql
 
 # Fitur
 1. ADD
